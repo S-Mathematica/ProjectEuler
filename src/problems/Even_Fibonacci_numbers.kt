@@ -1,4 +1,4 @@
-package practice.euler
+package practice.euler.problems
 
 import java.util.*
 
